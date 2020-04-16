@@ -17,6 +17,9 @@
 * How to select the right Regression Model?
 * Regularization
 * How do I know these assumptions are violated in my data?
+* How can you improve the accuracy of a regression model ?
+
+################################################################################################################
 
 
 
