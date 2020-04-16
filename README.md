@@ -16,8 +16,11 @@
 * Linear Regression with statsmodels
 * How to select the right Regression Model?
 * Regularization
+* How do I know these assumptions are violated in my data?
+
 
 
 
 1. https://www.knowledgehut.com/blog/data-science/linear-regression-for-machine-learning
 2. https://scikit-learn.org/stable/modules/linear_model.html
+3. https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/
