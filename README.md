@@ -1,4 +1,4 @@
-# Linear-Regression
+# Linear Regression
 * What is Linear Regression?
 * Hypothesis of Linear Regression
 * How does Linear Regression work?
