@@ -14,5 +14,10 @@
 * Linear Regression with multiple variables
 * Data preparation for Linear Regression
 * Linear Regression with statsmodels
+* How to select the right Regression Model?
+* Regularization
 
-https://www.knowledgehut.com/blog/data-science/linear-regression-for-machine-learning
+
+
+1. https://www.knowledgehut.com/blog/data-science/linear-regression-for-machine-learning
+2. https://scikit-learn.org/stable/modules/linear_model.html
