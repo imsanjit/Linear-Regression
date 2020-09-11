@@ -18,6 +18,12 @@
 * Regularization
 * How do I know these assumptions are violated in my data?
 * How can you improve the accuracy of a regression model ?
+* What are the assumpations mad in Linear Regression?
+There are mainly 4 types of assumpation made in Linear regression:
+1. Relationship between dependend and independent variables should be a linear.
+2. The independent variable should not be co related. ie. multicollinearity.
+3. The error terms (Residuals) must have constant variance. This is know as Homoscadasticity.
+4. The error term (Residual) must be normally distributed.
 
 ################################################################################################################
 
